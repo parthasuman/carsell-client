@@ -31,6 +31,8 @@ const Blog = () => {
       <p className="my-4">
         Ans: Unit Testing is a type of software testing where individual units
         or components of a software are tested. <br></br>
+        Why should we write unit tests?
+        <br></br>
         Ans: They enable you to catch bugs early in the development process.
         Automated unit tests help a great deal with regression testing. They
         detect code smells in your codebase.
