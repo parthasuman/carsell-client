@@ -41,10 +41,11 @@ const Blog = () => {
       </p>
       <h4 className="text-2xl my-4">React vs. Angular vs. Vue?</h4>
       <p className="my-2">
-        Ans: Vue provides higher customizability and hence is easier to learn
-        than Angular or React. Further, Vue has an overlap with Angular and
-        React with respect to their functionality like the use of components.
-        Hence, the transition to Vue from either of the two is an easy option.
+        <span className="text-xl">Ans:</span> Vue provides higher
+        customizability and hence is easier to learn than Angular or React.
+        Further, Vue has an overlap with Angular and React with respect to their
+        functionality like the use of components. Hence, the transition to Vue
+        from either of the two is an easy option.
       </p>
     </div>
   );
