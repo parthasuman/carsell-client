@@ -8,10 +8,10 @@ const Blog = () => {
         What are the different ways to manage a state in a React application?
       </h4>
       <p className="my-2">
-        Ans: There are four main types of state you need to properly manage in
-        your React apps: Local state, Global state, Server state,URL state{" "}
-        <br></br>Local (UI) state – Local state is data we manage in one or
-        another component.
+        <span className="text-xl">Ans:</span> There are four main types of state
+        you need to properly manage in your React apps: Local state, Global
+        state, Server state,URL state <br></br>Local (UI) state – Local state is
+        data we manage in one or another component.
         <br></br>
         Global (UI) state – Global state is data we manage across multiple
         components.<br></br> Server state – Data that comes from an external
