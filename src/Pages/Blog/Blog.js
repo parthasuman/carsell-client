@@ -35,9 +35,9 @@ const Blog = () => {
         <br></br>
         Why should we write unit tests?
         <br></br>
-        Ans: They enable you to catch bugs early in the development process.
-        Automated unit tests help a great deal with regression testing. They
-        detect code smells in your codebase.
+        <span className="text-xl">Ans:</span> They enable you to catch bugs
+        early in the development process. Automated unit tests help a great deal
+        with regression testing. They detect code smells in your codebase.
       </p>
       <h4 className="text-2xl my-4">React vs. Angular vs. Vue?</h4>
       <p className="my-2">
