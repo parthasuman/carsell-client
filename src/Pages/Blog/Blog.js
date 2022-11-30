@@ -21,13 +21,20 @@ const Blog = () => {
       </p>
       <h4 className="text-2xl my-4">How does prototypical inheritance work?</h4>
       <p className="my-2">
-        The Prototypal Inheritance is a feature in javascript used to add
+        Ans: The Prototypal Inheritance is a feature in javascript used to add
         methods and properties in objects. It is a method by which an object can
         inherit the properties and methods of another object.
       </p>
       <h4 className="text-2xl my-4">
         What is a unit test? Why should we write unit tests?
       </h4>
+      <p className="my-4">
+        Ans: Unit Testing is a type of software testing where individual units
+        or components of a software are tested. <br></br>
+        Ans: They enable you to catch bugs early in the development process.
+        Automated unit tests help a great deal with regression testing. They
+        detect code smells in your codebase.
+      </p>
       <h4 className="text-2xl my-4">React vs. Angular vs. Vue?</h4>
     </div>
   );
