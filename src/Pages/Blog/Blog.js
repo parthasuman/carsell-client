@@ -20,6 +20,11 @@ const Blog = () => {
         parameters.
       </p>
       <h4 className="text-2xl my-4">How does prototypical inheritance work?</h4>
+      <p className="my-2">
+        The Prototypal Inheritance is a feature in javascript used to add
+        methods and properties in objects. It is a method by which an object can
+        inherit the properties and methods of another object.
+      </p>
       <h4 className="text-2xl my-4">
         What is a unit test? Why should we write unit tests?
       </h4>
