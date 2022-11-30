@@ -12,6 +12,7 @@ import SellerRoute from "../SellerRoute/SellerRoute";
 import MyProducts from "../../Dashboard/MyProducts/MyProducts";
 import Payment from "../../Dashboard/Dashboard/Payment/Payment";
 import Blog from "../../Pages/Blog/Blog";
+import ErrorPage from "../../ErrorPage/ErrorPage";
 const { createBrowserRouter } = require("react-router-dom");
 const { default: Main } = require("../../Layout/Main");
 const { default: Home } = require("../../Pages/Home/Home/Home");
@@ -20,6 +21,7 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Main></Main>,
+    errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
         path: "/",
