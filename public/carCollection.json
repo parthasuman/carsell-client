@@ -1,0 +1,62 @@
+[
+  {
+    "name": "corolla X",
+    "brandName": "Toyota",
+    "category_id": "637f8efc987c7fcbdd5ed742",
+    "image": "https://i.postimg.cc/N06F5gbZ/corollaX.jpg",
+    "orginalPrice": "300",
+    "resalePrice": "200",
+    "useYears": "2",
+    "location": ["Dhaka", "Chittagong", "Sylhet", "Khulna", "Rangpur"]
+  },
+  {
+    "name": "corolla allion ",
+    "brandName": "Toyota",
+    "category_id": "637f8efc987c7fcbdd5ed742",
+    "image": "https://i.postimg.cc/JhSwVJbL/corolla-Allion.png",
+    "orginalPrice": "350",
+    "resalePrice": "250",
+    "useYears": "2",
+    "location": ["Dhaka", "Chittagong", "Sylhet", "Khulna", "Rangpur"]
+  },
+  {
+    "name": "Bmw sedan",
+    "brandName": "BMW",
+    "category_id": "637f8efc987c7fcbdd5ed743",
+    "image": "https://i.postimg.cc/xCQ94CBg/bmwSedan.jpg",
+    "orginalPrice": "500",
+    "resalePrice": "400",
+    "useYears": "4",
+    "location": ["Dhaka", "Chittagong", "Sylhet", "Khulna", "Rangpur"]
+  },
+  {
+    "name": "Bmw x3",
+    "brandName": "BMW",
+    "category_id": "637f8efc987c7fcbdd5ed743",
+    "image": "https://i.postimg.cc/FRCnJCbc/bmwX3.jpg",
+    "orginalPrice": "450",
+    "resalePrice": "400",
+    "useYears": "4",
+    "location": ["Dhaka", "Chittagong", "Sylhet", "Khulna", "Rangpur"]
+  },
+  {
+    "name": "tata safari",
+    "brandName": "TATA",
+    "category_id": "637f8efc987c7fcbdd5ed744",
+    "image": "https://i.postimg.cc/65CJDwLm/tata-Safari.jpg",
+    "orginalPrice": "250",
+    "resalePrice": "200",
+    "useYears": "1",
+    "location": ["Dhaka", "Chittagong", "Sylhet", "Khulna", "Rangpur"]
+  },
+  {
+    "name": "tata nexon",
+    "brandName": "TATA",
+    "category_id": "637f8efc987c7fcbdd5ed744",
+    "image": "https://i.postimg.cc/MT0VCnHG/Tata-Nexon.jpg",
+    "orginalPrice": "280",
+    "resalePrice": "220",
+    "useYears": "1",
+    "location": ["Dhaka", "Chittagong", "Sylhet", "Khulna", "Rangpur"]
+  }
+]
